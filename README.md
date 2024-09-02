@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script automates the process of creating accounts on a website using a combination of random data generation, CAPTCHA solving, and HTTP requests. It uses CapMonster to solve CAPTCHA challenges, handles HTTP requests for registration, and manages user credentials by saving them to a file.
+This Python script automates the process of creating accounts on findretros using a combination of random data generation, CAPTCHA solving, and HTTP requests. It uses CapMonster to solve CAPTCHA challenges, handles HTTP requests for registration, and manages user credentials by saving them to a file.
 
 **Note:** This script is intended for educational purposes only. Use it responsibly and ensure you comply with the terms of service of any website you interact with.
 
