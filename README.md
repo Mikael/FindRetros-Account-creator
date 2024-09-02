@@ -48,7 +48,7 @@ python start.py
 ***Educational Purposes Only***: This script is designed for educational use and should not be used for spamming or malicious activities. Always adhere to the terms of service of the website you are interacting with.
 **API Key**: Ensure you have a valid CapMonster API key to solve CAPTCHA challenges.
 **Proxy Handling**: Make sure your proxies are properly configured and valid.
-##License
+## License
 This project is licensed under the MIT License. See the [LICENSE](https://en.wikipedia.org/wiki/MIT_License) file for details.
 ```
 Copyright (c) <2024> <Mikael>
